@@ -18,8 +18,8 @@ redirect_from:
 ======
 
 [Google Scholar Profile](https://scholar.google.com/citations?user=mt6u__wAAAAJ&hl=zh-CN&oi=ao) for full publication list.
-1. Xiong F, Xie Z, Wang H, Sun Y, et al. SEED: Spectral Entropy-Guided Evaluation of Spatial-Temporal Dependencies for Multivariate Time Series Forecasting[C]. AAAI, 2026.
-2. Sun Y, Xie Z, Eldele E, et al. [Learning Pattern-Specific Experts for Time Series Forecasting Under Patch-level Distribution Shift](https://openreview.net/pdf?id=CtoIG9Iwas)[J]. NeurIPS, 2025.
+1. Xiong F, Xie Z, Sun Y, Wang H, et al. [SEED: Spectral Entropy-Guided Evaluation of Spatial-Temporal Dependencies for Multivariate Time Series Forecasting](https://arxiv.org/pdf/2512.14718)[C]. AAAI, 2026.
+2. Sun Y, Xie Z, Eldele E, et al. [Learning Pattern-Specific Experts for Time Series Forecasting Under Patch-level Distribution Shift](https://openreview.net/pdf?id=CtoIG9Iwas)[C]. NeurIPS, 2025.
 3. Kudrat D, Xie Z, Sun Y, et al. [Patch-wise Structural Loss for Time Series Forecasting](https://openreview.net/pdf?id=p1KkW2kgDp)[C]. ICML, 2025.
 4. Niu W, Xie Z, Sun Y, et al. [LangTime: A Language-Guided Unified Model for Time Series Forecasting with Proximal Policy Optimization](https://openreview.net/pdf?id=VfoKOD65Zq)[C]. ICML, 2025.
 5. Jia T, Xie Z, Sun Y, et al. [Lightweight Channel-wise Dynamic Fusion Model: Non-stationary Time Series Forecasting via Entropy Analysis](https://arxiv.org/pdf/2503.02609)[J]. arXiv preprint arXiv:2503.02609, 2025.
